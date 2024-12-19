@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*.html
+*.csv
+*.pkl
+<<<<<<< HEAD
+*.pickle
+=======
+*.pickle
+Kladblok.ipynb
+/iris_drift_data
+>>>>>>> gdash

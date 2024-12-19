@@ -1,0 +1,15 @@
+name: monitoring-dashboard
+channels:
+    - defaults
+    - conda-forge
+    - plotly
+dependencies:
+    - python=3.9
+    - ipykernel
+    - numpy
+    - pandas
+    - streamlit 
+    - plotly=5.4.0
+    - scikit-learn
+    - matplotlib
+#     - pygit2   # TODO Voor dev code van Joram, dit hoeft niet in uiteindelijke versie van env te zitten
